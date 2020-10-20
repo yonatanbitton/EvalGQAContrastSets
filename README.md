@@ -10,7 +10,7 @@ Choose the most appropriate answer for the question.
 ## Is the X relation Y
 
 ### Example 1:  
-![](examples/refregirator_left_to_lamp_ans_is_yes_ref_left_to_oven_no.png)
+![](examples/refregirator_left_to_lamp_ans_is_yes_ref_left_to_oven_no.png)  
 **Q1**: Is the refrigerator to the left of an oven?   
 **A1**: No  
 **E1**: If I am the oven (Y), the refrigerator (X) is **right** to me (not left) (**guideline 1**). 
@@ -22,7 +22,7 @@ So this is referring to the **lamp** in the end of the sofa at the right side of
 If so, the refrigerator is the the left of me (**guideline 1**).  
 
 ### Example 2:  
-![](examples/tree_behind_skier_ans_is_yes_tree_behind_elephant_ans_is_no.png)
+![](examples/tree_behind_skier_ans_is_yes_tree_behind_elephant_ans_is_no.png)  
 **Q1**: Is the tree behind an elephant?  
 **A1**: No  
 **E1**: We don't see elephant, so we answer no.
@@ -32,13 +32,13 @@ If so, the refrigerator is the the left of me (**guideline 1**).
 **E2**: If I am the skier (Y), then the tree (X) is behind me (**guideline 1**). So the answer is yes. 
 
 ### Example 3:  
-![](examples/animal_in_front_of_dvd_player_no_animal_in_front_of_laptop_yes.png)
+![](examples/animal_in_front_of_dvd_player_no_animal_in_front_of_laptop_yes.png)  
 **Q1**: Is the animal in front of a laptop?  
 **A1**: Yes
 **E1**: If I am the laptop (Y), then the animal (X) is in front of me (**guideline 3**).
 
 ### Example 4:  
-![](examples/grass_behind_bence_ans_is_yes_grass_behind_motorcycle_ans_is_no.png)
+![](examples/grass_behind_bence_ans_is_yes_grass_behind_motorcycle_ans_is_no.png)  
 **Q1**: Is the grass behind of the bench?
 **A1**: Yes
 **E1**: If I am the bench (Y), the the grass (X) is behind me (**guideline 33**).
@@ -47,7 +47,7 @@ If so, the refrigerator is the the left of me (**guideline 1**).
 ## Are there any X near the Y
 
 ### Example 5:   
-![](examples/lettuce_near_the_utensil_no_bowl_near_the_utensil_yes.png)
+![](examples/lettuce_near_the_utensil_no_bowl_near_the_utensil_yes.png)  
 **Q1**: Is there any lettuce near the metal utensil?  
 **A1**: No  
 **E1**: We don't see lettuce, so we answer no (**guideline 3**).
@@ -58,7 +58,7 @@ E2: The bowl is the orange object (**guideline 2**). So the answer is yes.
 
 
 ### Example 6:  
-![](examples/are_there_any_vehicls_near_the_airport_ans_is_yes_any_tree_near_the_airport_ans_is_no.jpg)
+![](examples/are_there_any_vehicls_near_the_airport_ans_is_yes_any_tree_near_the_airport_ans_is_no.jpg)  
 Q1: Are there any vehicles near the airport?  
 A1: Yes
 E1: We do see a red vehicle in the left side of the image. So the answer is yes (**guideline 2**). 
